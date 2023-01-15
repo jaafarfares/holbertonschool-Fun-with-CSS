@@ -1,7 +1,7 @@
 a {
     position: relative;
     text-decoration: none;
-    color: red;
+    color: #e0003c;
     cursor: pointer;
 
   } 
@@ -13,7 +13,7 @@ a {
     height: 2px;
     bottom: 0;
     left: 0;
-    background-color: red;
+    background-color: #e0003c;
     transform: scaleX(0);
     transition: transform 0.3s ease-in-out;
     transform-origin: left ;
